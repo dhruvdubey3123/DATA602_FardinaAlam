@@ -1,0 +1,1 @@
+I expect to learn about the practical applications of data science and its various algorithms having built a decent theoretical background. This course will help me build foundations for my long term career goal of becoming a machine learning engineer.
